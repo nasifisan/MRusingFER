@@ -41,5 +41,5 @@ So according to this project, we will take an image of an user and predict emoti
 
 
 
-Spotify Dataset link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks **(Spotify Dataset 1922-2021, ~600k Tracks)** /newline
+Spotify Dataset link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks **(Spotify Dataset 1922-2021, ~600k Tracks)**
 Dataset for mood Classifier link: https://github.com/cristobalvch/Spotify-Machine-Learning/tree/master/data **(data_moods.csv)**
