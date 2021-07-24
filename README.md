@@ -1,4 +1,4 @@
-Music recommendation based on facial emotion recognition
+Music Recommendation based on Facial Emotion Recognition
 ========================================================
 
 **Mood Detection** model can detect face from any image and then it can predict the emotion from that face.
